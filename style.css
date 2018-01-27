@@ -69,11 +69,13 @@ body {
        
 }
 
-ul {
+.listClass {
     background-color: white;
     height: 30px;
     text-align: center;
     height: 40px;
-    
+}
 
+.fontLipsum {
+    font-family: cursive;
 }
