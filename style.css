@@ -1,0 +1,79 @@
+.banner {
+    background: url(https://scontent-lax3-1.xx.fbcdn.net/v/t31.0-8/23847353_1714720185213164_3528767223555185032_o.jpg?oh=133dddd2093d7f73523685f2683e8153&oe=5AE46145) no-repeat center center;
+    text-align: center;
+    height: 300px;
+    background-size: cover;
+    margin: 0 0;
+  }
+
+h1 {
+  color: black;
+  line-height: 300px; 
+  font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px white;
+}
+
+.banner2 {
+    background: url(https://static1.squarespace.com/static/58d962d7197aeab5831c9309/t/590fb97ebe65940ba99da8da/1494202753348/Home-page-banner-sun-in-trees.jpg?format=1500w);
+    color: rgb(24, 61, 2);
+    text-align: center;
+    margin: 0 0;
+    height: 100px;
+    border: solid 2px rgb(217, 240, 182);
+    line-height: 30px;
+    font-size: 30px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+.image {
+    align-content: center;
+    padding: 0;
+    height: 200px;
+    width: 200px;
+    border: 1px dotted black;
+    padding-bottom: -10px;                                                   /* Ask about bottom padding on picture */
+    }
+
+.bio {
+    text-align: center;
+    font-size: 14   px;
+    border: 1px dotted black;
+    width: 100%;
+    background-color: white;
+}
+
+body {
+    background-image: url(https://orig00.deviantart.net/8394/f/2015/263/1/0/blue_forest3c_by_pajunen-d9aa5p3.jpg);
+}
+
+.lipsum {
+    background: rgb(122, 231, 122);
+    text-align: center;
+    height: 50px;
+    background-size: cover;
+    line-height: 40px;
+    font-size: 44px;
+    color: rgb(253, 1, 1)
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;   /* why font family doesn't work on link */
+    border: 1px solid black;
+}
+
+.inlineList li{                                                              /*why add li ???? */
+    display: inline;
+    text-align: center;
+    position:relative; 
+    margin: 5%;
+       
+}
+
+ul {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    height: 40px;
+    
+
+}
